@@ -1,13 +1,13 @@
 # Currency Converter
 
-A simple currency converter built using React, Vite, Tailwind CSS, and a custom hook for fetching currency information from the [Currency API](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json).
-
+A simple currency converter built using React, Vite, Tailwind CSS, and a custom hook for fetching currency information from the [Currency API](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/inr.json).
+`https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json`
 ## Features
 
 - Convert between different currencies
 - Swap between the source and target currencies
 - Choose from a variety of currencies using a dropdown
-- Fetches the latest currency exchange rates from [Currency API](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json)
+- Fetches the latest currency exchange rates from [Currency API](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/inr.json)
 
 ## Technologies Used
 
