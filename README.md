@@ -1,6 +1,7 @@
 # Currency Converter
 
 A simple currency converter built using React, Vite, Tailwind CSS, and a custom hook for fetching currency information from the [Currency API](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/inr.json).
+
 `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json`
 ## Features
 
